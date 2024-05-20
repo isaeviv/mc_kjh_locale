@@ -2,5 +2,12 @@
   "pack": {
     "pack_format": 15,
     "description": "Khakass locale for minecraft"
+  },
+  "language": {
+    "ru_kjh": {
+      "name":   "Хакас тілі",
+      "region": "Хакас Республиказы",
+      "biderctional": false
+    }
   }
 }
